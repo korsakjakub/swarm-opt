@@ -1,0 +1,3 @@
+# swarm-opt
+
+![](animation.gif)
